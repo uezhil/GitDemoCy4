@@ -1,0 +1,11 @@
+3/5/22 -day 2
+-recap - net fw,c# features, vstudio ,console proj,-net core/std fw-4.7.2/4.8 
+-input-process-output- System.Console.WriteLine/ReadLine- F5-Ctrl/f5 
+-print - + - concatenation
+
+-Output Formatting
+-Operators - Arithmetic,logical,relational
+-Constructs 
+-Conditional-
+-Iterative -loop/repeat
+-Lab/excercise

@@ -1,0 +1,9 @@
+Day 4
+-Oops - Inheritance,Abstraction
+-Polymorphism - Static/dynamic-overloading/overriding - Inheritance
+-Functions - args/params
+-Encapsulation - Properties
+
+-Classes -
+Static,sealed,abstract,partial
+-interface,enums,structs 
